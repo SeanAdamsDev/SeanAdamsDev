@@ -1,4 +1,5 @@
-![readmelogo](https://github.com/SeanAdamsDev/SeanAdamsDev/assets/66779812/1d637b51-e73a-47f6-9bfe-43d794378ced)
+
+![banner](https://github.com/SeanAdamsDev/SeanAdamsDev/assets/66779812/587c76ca-6845-4bf8-b643-f4acf8c25cd0)
 
 **About Me** :earth_africa:
 
@@ -22,4 +23,4 @@ I am open to feedback and adaptable to changing project scopes, ensuring client 
 **Let's Connect!** :incoming_envelope:
 
 If you're seeking an enthusiastic and diligent web developer who is eager to make a mark in the industry, I would love to connect!
-Feel free to reach out to me via email at seanadams.adams@gmail.com or through my LinkedIn profile [Your LinkedIn Profile]. 
+Feel free to reach out to me via email at seanadams.adams@gmail.com. 
